@@ -1,4 +1,4 @@
-# fundamentos-funciones
+# Fundamentos-funciones
 
 Mediante el presente trabajo se desarrollo la actividad con el fin de recordar la clase, mediante el uso de ejemplos
 de la vida real basandonos en los ejercicios vistos en clase. Dicho script muestra los fundamentos y funciones básicas que se 
